@@ -62,6 +62,7 @@ x = rand(5, 5)
 # Let's try out some plotting. Start by loading the Gadfly package; if you
 # type `using` you'll see a list of available packages in the autocomplete.
 
+Pkg.add("Gadfly")
 using Gadfly
 
 # A few simple examples; if you want to learn more about Gadfly, check out
