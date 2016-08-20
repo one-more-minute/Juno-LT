@@ -5,7 +5,7 @@
  [:app :lt.objs.langs.julia.proc/connect-on-startup]
  [:app :lt.object/add-tag :app.june-dark-autocomplete]
  [:app :lt.objs.langs.julia/light-theme]
- [:app :lt.objs.settings/pair-keymap-diffs]
+ [:app :-lt.objs.settings/pair-keymap-diffs]
  [:app :lt.plugins.juno.tutorial/tutorial]
  [:app :-lt.objs.intro/show-intro]
 
@@ -13,7 +13,7 @@
  [:editor :lt.objs.editor/line-numbers]
  [:editor :lt.objs.editor/scroll-past-end]
  [:editor :lt.objs.langs.julia.patch/backspace-indent]
- [:editor :lt.objs.editor/tab-settings false 2 2]
+ [:editor :lt.objs.editor/tab-settings false 4 4]
 
  [:inline :lt.plugins.flow/animate-on-show]
  [:inline :lt.plugins.flow/clear-mark]
