@@ -132,7 +132,7 @@ convert(Image, scale(foo_grid(500), 1/80))
 
 # If you expand the image you can also click on the `Dictionary`
 # field to see some interesting properties about it (if that's the
-# kind of thing that floats your goat).
+# kind of thing that floats your boat).
 
 # If you want to learn more about Julia, take a look at
 # http://julialang.org/learning/
